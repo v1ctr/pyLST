@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lohnsteuer jahr="2020">
+    <information>Die Berechnung ist nach den PAP 2020 erfolgt. Die Berechnung dient lediglich der Qualitätssicherung. Die Externe Schnittstelle des Lohn- und Einkommensteuerrechner ist also nur für die Überprüfung ihrer Rechnung bestimmt und nicht dazu bestimmt, die Berechnung über ihn abzuwickeln.</information>
+    <eingaben>
+        <eingabe name="AF" value="1" status="ok"/>
+        <eingabe name="F" value="1.0" status="ok"/>
+        <eingabe name="AJAHR" value="0" status="ok"/>
+        <eingabe name="ALTER1" value="0" status="ok"/>
+        <eingabe name="ENTSCH" value="0" status="ok"/>
+        <eingabe name="JFREIB" value="0" status="ok"/>
+        <eingabe name="JHINZU" value="0" status="ok"/>
+        <eingabe name="JRE4" value="0" status="ok"/>
+        <eingabe name="JVBEZ" value="0" status="ok"/>
+        <eingabe name="KRV" value="0" status="ok"/>
+        <eingabe name="KVZ" value="0" status="ok"/>
+        <eingabe name="LZZ" value="1" status="ok"/>
+        <eingabe name="LZZFREIB" value="0" status="ok"/>
+        <eingabe name="LZZHINZU" value="0" status="ok"/>
+        <eingabe name="PKPV" value="0" status="ok"/>
+        <eingabe name="PKV" value="0" status="ok"/>
+        <eingabe name="PVS" value="0" status="ok"/>
+        <eingabe name="PVZ" value="0" status="ok"/>
+        <eingabe name="R" value="0" status="ok"/>
+        <eingabe name="RE4" value="0" status="ok"/>
+        <eingabe name="SONSTB" value="0" status="ok"/>
+        <eingabe name="STERBE" value="0" status="ok"/>
+        <eingabe name="STKL" value="1" status="ok"/>
+        <eingabe name="VBEZ" value="0" status="ok"/>
+        <eingabe name="VBEZM" value="0" status="ok"/>
+        <eingabe name="VBEZS" value="0" status="ok"/>
+        <eingabe name="VBS" value="0" status="ok"/>
+        <eingabe name="VJAHR" value="0" status="ok"/>
+        <eingabe name="VKAPA" value="0" status="ok"/>
+        <eingabe name="VMT" value="0" status="ok"/>
+        <eingabe name="ZKF" value="0" status="ok"/>
+        <eingabe name="ZMVB" value="0" status="ok"/>
+        <eingabe name="JRE4ENT" value="0" status="ok"/>
+        <eingabe name="SONSTENT" value="0" status="ok"/>
+    </eingaben>
+    <ausgaben>
+        <ausgabe name="BK" value="0" type="STANDARD"/>
+        <ausgabe name="BKS" value="0" type="STANDARD"/>
+        <ausgabe name="BKV" value="0" type="STANDARD"/>
+        <ausgabe name="LSTLZZ" value="0" type="STANDARD"/>
+        <ausgabe name="SOLZLZZ" value="0" type="STANDARD"/>
+        <ausgabe name="SOLZS" value="0" type="STANDARD"/>
+        <ausgabe name="SOLZV" value="0" type="STANDARD"/>
+        <ausgabe name="STS" value="0" type="STANDARD"/>
+        <ausgabe name="STV" value="0" type="STANDARD"/>
+        <ausgabe name="VKVLZZ" value="0" type="STANDARD"/>
+        <ausgabe name="VKVSONST" value="0" type="STANDARD"/>
+        <ausgabe name="VFRB" value="0" type="DBA"/>
+        <ausgabe name="VFRBS1" value="0" type="DBA"/>
+        <ausgabe name="VFRBS2" value="0" type="DBA"/>
+        <ausgabe name="WVFRB" value="0" type="DBA"/>
+        <ausgabe name="WVFRBO" value="0" type="DBA"/>
+        <ausgabe name="WVFRBM" value="0" type="DBA"/>
+    </ausgaben>
+</lohnsteuer>
